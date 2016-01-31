@@ -1,0 +1,23 @@
+{
+  "name": "aarjithn",
+  "version": "0.0.2",
+  "description": "Aarjith's personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarjithn/aarjithn.github.io.git"
+  },
+  "keywords": [
+    "aarjithn",
+    "website"
+  ],
+  "author": "aarjithn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarjithn/aarjithn.github.io/issues"
+  },
+  "homepage": "https://github.com/aarjithn/aarjithn.github.io#readme"
+}
