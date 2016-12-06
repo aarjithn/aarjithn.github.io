@@ -51,7 +51,7 @@
 	margin-top: 30px;
 	text-align: center;
 	color: #bbb;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-weight: 200;
 	position: relative;
 	top: 5px;
@@ -136,4 +136,41 @@
 .links a:hover span::before,
 .links a:focus span::before {
 	background: #1EAEDB;	
+}
+
+.works-title {
+	text-align: center;
+	margin-top: 40px;
+	font-size: 1.9em;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #e0e0e0; 
+  line-height: 0.1em;
+	width: 65%;
+	margin: 40px auto 30px;
+}
+
+.works-title span {
+  background:#fff;
+  padding:0 10px;
+}
+
+.works-list {
+  text-align: center;
+	list-style-type: none;
+	color: #555;
+}
+
+.works-list h5 {
+	color: #222;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+
+small {
+	background: #eee;
+	padding: 3px 6px;
+	border-radius: 3px;
+	font-family: monospace;
 }
